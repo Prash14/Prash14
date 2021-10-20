@@ -4,7 +4,7 @@
 <p><em>
   <ul>
   <li> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">Hi, I’m Prashant Tiwari</li>
-  <li> 🌱 I’m currently learning ... To develop my digital garden 🌱</li>
+  <li> 🌱 I’m currently learning... To develop my digital garden🌱</li>
   <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/prashant-tiwari-3a756912/">Linkedin</a></li>
   <li> ✨ Fun Fact ... I am chat buddy</li>
   <li> 😊 Pronoun ... He/Him </li>
