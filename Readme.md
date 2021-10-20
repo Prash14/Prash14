@@ -1,4 +1,4 @@
-# Namaste, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Namaste, folks! :pray:
 ### Here is what I am working on!👋
 <img align='right' src="https://github.com/Prash14/Assignment/blob/master/OtherData/devImage.gif" width="300">
 <p><em>
@@ -11,7 +11,7 @@
   <li> 💻 Software Engineer at <a href="https://www.maersk.com/">Maersk</li>
 </ul> </em></p>
 
-<img src="https://github.com/Prash14/Assignment/blob/master/OtherData/WorkLifeBalance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/Prash14/Assignment/blob/master/OtherData/WorkLifeBalance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
