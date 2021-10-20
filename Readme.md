@@ -1,9 +1,9 @@
 # Namaste, folks! :pray:
-### Here is what I am working on!👋
-<img align='right' src="https://github.com/Prash14/Assignment/blob/master/OtherData/devImage.gif" width="300">
+### Here is what I am working on!
+<img align='right' src="https://github.com/Prash14/Assignment/blob/master/OtherData/devImage.gif" width="400">
 <p><em>
   <ul>
-  <li> 👋 Hi, I’m Prashant Tiwari</li>
+  <li> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">Hi, I’m Prashant Tiwari</li>
   <li> 🌱 I’m currently learning ... To develop my digital garden 🌱</li>
   <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/prashant-tiwari-3a756912/">Linkedin</a></li>
   <li> ✨ Fun Fact ... I am chat buddy</li>
@@ -11,7 +11,7 @@
   <li> 💻 Software Engineer at <a href="https://www.maersk.com/">Maersk</li>
 </ul> </em></p>
 
-<img src="https://github.com/Prash14/Assignment/blob/master/OtherData/WorkLifeBalance.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://github.com/Prash14/Assignment/blob/master/OtherData/WorkLifeBalance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
