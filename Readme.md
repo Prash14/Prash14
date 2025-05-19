@@ -8,7 +8,7 @@
   <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/prashant-tiwari-3a756912/">Linkedin</a></li>
   <li> ✨ Fun Fact ... I am chat buddy</li>
   <li> 😊 Pronoun ... He/Him </li>
-  <li> 💻 Software Developer at <a href="https://www.microsoft.com/en-in/msidc/">Microsoft</li>
+  <li> 💻 Sr. Software Engineer at <a href="https://www.microsoft.com/en-in/msidc/">Microsoft</li>
 </ul> </em></p>
 
 <img src="https://github.com/Prash14/Assignment/blob/master/OtherData/WorkLifeBalance.gif" alt="side Image" align="right" width="200" height="auto" />
